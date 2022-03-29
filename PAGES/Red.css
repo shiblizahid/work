@@ -1,0 +1,28 @@
+.section-tittle .title::before,
+header,.Home-section,.About-Us .bg-danger,.btn-2,.footer,.bg,.courses:hover,.card::before,.testinomial-section::before,.dropdown-menu{
+    background-color: crimson!important;
+}
+.btn-1,.heading,.tittle h4,.section-tittle .title,
+.history-section .about-content ul li i,
+.About-Us .section-tittle .tittle,.About-Us .para span,
+.testinomials-section .img-box::before,
+.testinomials-section .img-box::after,.contact-section .contact-item .icon i,
+.contact-section .contact-item h5,.footer .social-links a:hover i, .Main,.text,.features-section .card h1,.features-section .card span{
+    color: crimson!important;
+}
+.btn-1:hover{
+    color: crimson;
+    transform: translateY(-15%);
+    transition: 0.5s ease;
+}
+.Cards-section .card:hover{
+    box-shadow: 5px 5px 5px crimson;
+    transform: translateY(-10%);
+}
+.contact-section .contact-form .form-control:focus{
+    border-color: crimson;
+}
+.features-section .card{
+box-shadow: -2px -2px 5px inset crimson;
+}
+
